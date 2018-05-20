@@ -5,7 +5,7 @@
 <h1>This is my first Devops project</h1>
 
 <?php
-echo "Version: 2.0";
+echo "Rajesh version:2.0";
 ?>
 
 </body>
